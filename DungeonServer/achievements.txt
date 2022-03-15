@@ -1,0 +1,9 @@
+Player 1, treasures found: 0, minions killed: 0, players killed: 0
+Player 2, treasures found: 0, minions killed: 0, players killed: 0
+Player 3, treasures found: 0, minions killed: 0, players killed: 0
+Player 4, treasures found: 0, minions killed: 0, players killed: 0
+Player 5, treasures found: 0, minions killed: 0, players killed: 0
+Player 6, treasures found: 0, minions killed: 0, players killed: 0
+Player 7, treasures found: 0, minions killed: 0, players killed: 0
+Player 8, treasures found: 0, minions killed: 0, players killed: 0
+Player 9, treasures found: 0, minions killed: 0, players killed: 0
