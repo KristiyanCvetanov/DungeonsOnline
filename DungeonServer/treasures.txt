@@ -1,0 +1,31 @@
+7
+Ice Cream Stick, 1, 4
+Pocket Knife, 1, 8
+Wooden Sword, 2, 15
+Bone Blade, 4, 30
+Katana, 6, 45
+Death Scimitar, 8, 75
+Frostmourne, 10, 110
+6
+Moonfire, 1, 5, 50
+Arcane Missile, 2, 16, 50
+Fireball, 4, 32, 60
+Exorcism, 6, 70, 75
+Shadow Word: Death, 8, 100, 150
+Pyroblast, 10, 150, 190
+7
+Leather Armor, 1, 5, 10
+Wooden Armor, 1, 10, 25
+Iron Armor, 2, 15, 40
+Gold Armor, 4, 25, 90
+Platinum Armor, 6, 40, 150
+Razorplate Armor, 8, 70, 250
+Shadow Armor, 10, 120, 400
+3
+Lesser Healing Potion, 75
+Medium Healing Potion, 150
+Greater Healing Potion, 300
+3
+Lesser Mana Potion, 50
+Medium Mana Potion, 100
+Greater Mana Potion, 150
